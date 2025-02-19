@@ -1,0 +1,36 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding:0;
+    margin:0;
+    outline:none;
+    border:none;
+}
+.container{
+    padding-top:50px;
+}
+.todo-app{
+    padding:25px;
+    background-color:rgb(255, 6, 6);
+    width:500px;
+    min-height:120px;
+    border-radius:10px;
+    margin:auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.buttonh2{
+    cursor:pointer;
+    padding:10px;
+    border-radius:10px;
+}
+input{
+    padding:10px;
+    border-radius:10px;
+    width:330px;
+}
+.removeButtonh2
+{   
+    margin-left: auto;
+}
+#containerh2{
+    margin-top:30px;
+}
